@@ -26,7 +26,7 @@ El grafo se almacena en una lista de adyacencia a excepción del algoritmo de Fl
 
 ## Ejecución
 
-Desde el archivo `Main.java` se pueden ejecutar los 4 algoritmos, indicando el el origen deseado. Por defecto se asignó la ciudad de Pasto. Para el caso de Dijkstra, también se tiene la ciudad destino, la cual es Medellín, pudiendo ser modificada también por el usuario.
+Desde el archivo `Main.java` se pueden ejecutar los 4 algoritmos, indicando el origen deseado. Por defecto se asignó la ciudad de Pasto. Para el caso de Dijkstra, también se tiene la ciudad destino, la cual es Medellín, pudiendo ser modificada también por el usuario.
 
 ## Output
 
